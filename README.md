@@ -3,7 +3,6 @@
 
 ## Github Links
 - Repo: https://github.com/Archangel767/cpnt262-a4
-- Pages: https://archangel767.github.io/cpnt262-a4/
 
 ## Code Breakdown
 - Short program that tells some basic astrology details based on the birth month and date provided (MM DD)
