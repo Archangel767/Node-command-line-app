@@ -1,0 +1,11 @@
+{
+  "name": "cpnt262-a4",
+  "version": "1.0.0",
+  "description": "Node command line app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Atkinson",
+  "license": "MIT"
+}
